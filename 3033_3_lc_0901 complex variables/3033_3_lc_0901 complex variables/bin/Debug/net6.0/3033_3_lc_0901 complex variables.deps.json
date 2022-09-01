@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "3033_3_lc_0901 complex variables/1.0.0": {
+        "runtime": {
+          "3033_3_lc_0901 complex variables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3033_3_lc_0901 complex variables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

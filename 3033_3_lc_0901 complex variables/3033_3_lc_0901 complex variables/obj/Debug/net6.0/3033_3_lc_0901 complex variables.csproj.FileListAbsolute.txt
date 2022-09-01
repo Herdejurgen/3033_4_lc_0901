@@ -1,0 +1,15 @@
+C:\Users\Jack\Desktop\School stuff\Fall 2022\Business Programming Languages\3033_3_lc_0901 complex variables\3033_3_lc_0901 complex variables\bin\Debug\net6.0\3033_3_lc_0901 complex variables.exe
+C:\Users\Jack\Desktop\School stuff\Fall 2022\Business Programming Languages\3033_3_lc_0901 complex variables\3033_3_lc_0901 complex variables\bin\Debug\net6.0\3033_3_lc_0901 complex variables.deps.json
+C:\Users\Jack\Desktop\School stuff\Fall 2022\Business Programming Languages\3033_3_lc_0901 complex variables\3033_3_lc_0901 complex variables\bin\Debug\net6.0\3033_3_lc_0901 complex variables.runtimeconfig.json
+C:\Users\Jack\Desktop\School stuff\Fall 2022\Business Programming Languages\3033_3_lc_0901 complex variables\3033_3_lc_0901 complex variables\bin\Debug\net6.0\3033_3_lc_0901 complex variables.dll
+C:\Users\Jack\Desktop\School stuff\Fall 2022\Business Programming Languages\3033_3_lc_0901 complex variables\3033_3_lc_0901 complex variables\bin\Debug\net6.0\3033_3_lc_0901 complex variables.pdb
+C:\Users\Jack\Desktop\School stuff\Fall 2022\Business Programming Languages\3033_3_lc_0901 complex variables\3033_3_lc_0901 complex variables\obj\Debug\net6.0\3033_3_lc_0901 complex variables.csproj.AssemblyReference.cache
+C:\Users\Jack\Desktop\School stuff\Fall 2022\Business Programming Languages\3033_3_lc_0901 complex variables\3033_3_lc_0901 complex variables\obj\Debug\net6.0\3033_3_lc_0901 complex variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack\Desktop\School stuff\Fall 2022\Business Programming Languages\3033_3_lc_0901 complex variables\3033_3_lc_0901 complex variables\obj\Debug\net6.0\3033_3_lc_0901 complex variables.AssemblyInfoInputs.cache
+C:\Users\Jack\Desktop\School stuff\Fall 2022\Business Programming Languages\3033_3_lc_0901 complex variables\3033_3_lc_0901 complex variables\obj\Debug\net6.0\3033_3_lc_0901 complex variables.AssemblyInfo.cs
+C:\Users\Jack\Desktop\School stuff\Fall 2022\Business Programming Languages\3033_3_lc_0901 complex variables\3033_3_lc_0901 complex variables\obj\Debug\net6.0\3033_3_lc_0901 complex variables.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Desktop\School stuff\Fall 2022\Business Programming Languages\3033_3_lc_0901 complex variables\3033_3_lc_0901 complex variables\obj\Debug\net6.0\3033_3_lc_0901 complex variables.dll
+C:\Users\Jack\Desktop\School stuff\Fall 2022\Business Programming Languages\3033_3_lc_0901 complex variables\3033_3_lc_0901 complex variables\obj\Debug\net6.0\refint\3033_3_lc_0901 complex variables.dll
+C:\Users\Jack\Desktop\School stuff\Fall 2022\Business Programming Languages\3033_3_lc_0901 complex variables\3033_3_lc_0901 complex variables\obj\Debug\net6.0\3033_3_lc_0901 complex variables.pdb
+C:\Users\Jack\Desktop\School stuff\Fall 2022\Business Programming Languages\3033_3_lc_0901 complex variables\3033_3_lc_0901 complex variables\obj\Debug\net6.0\3033_3_lc_0901 complex variables.genruntimeconfig.cache
+C:\Users\Jack\Desktop\School stuff\Fall 2022\Business Programming Languages\3033_3_lc_0901 complex variables\3033_3_lc_0901 complex variables\obj\Debug\net6.0\ref\3033_3_lc_0901 complex variables.dll
